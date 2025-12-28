@@ -13,7 +13,7 @@ apt update && apt upgrade -y
 git clone https://github.com/suraj2830009-arch/WHP-FREEFIRE-HACKS-.git
 ```
 ```sh
-cd WHP-FreeFire-Hacks
+cd WHP-FREEFIRE-HACKS
 ```
 ```sh
 chmod +x *
