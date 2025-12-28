@@ -10,7 +10,7 @@ pkg update && pkg upgrade -y
  pkg install git python -y
 ```
 ```sh
-git clone https://github.com/suraj2830009-arch/WHP-FREEFIRE-HACKS-.git
+git clone https://github.com/suraj2830009-arch/WHP-FREEFIRE-HACKS.git
 ```
 ```sh
 cd WHP-FREEFIRE-HACKS
