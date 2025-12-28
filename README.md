@@ -7,7 +7,7 @@
 pkg update && pkg upgrade -y
 ```
  ```sh
- pkg install git
+ pkg install git python -y
 ```
 ```sh
 git clone https://github.com/suraj2830009-arch/WHP-FREEFIRE-HACKS-.git
